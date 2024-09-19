@@ -1,4 +1,6 @@
-# GIT Training vom 19.09. and 20.09
+# GIT Training vom 19. und 20. Sept 2024
+
+1. add one line
 
 1. add additional line
 
