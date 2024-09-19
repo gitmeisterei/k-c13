@@ -2,4 +2,4 @@
 
 1. Play with git
 
-1. Do something stupid
+1. Do something very stupid
