@@ -6,4 +6,4 @@
 
 1. Go sleeping
 
-1. Have sex
+1. Have fun
