@@ -1,8 +1,8 @@
-# GIT Training vom 19. und 20. Sept 2024 (New Elements)
+# GIT Training vom 19. und 20. Sept 2024 bei New Elements
 
 1. add one line
 
-1. add line 
+1. add additional line -> total stupid
 
 1. add second line
 
